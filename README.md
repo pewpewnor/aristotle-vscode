@@ -1,5 +1,7 @@
 # Aristotle for VS Code
 
+![Aristotle logo](media/aristotle.png)
+
 Aristotle for VS Code is the editor client for the [Aristotle backend](../aristotle). It adds an `@aristotle` chat participant that can answer questions about indexed codebases and send relevant editor context to the backend.
 
 ## What it does
